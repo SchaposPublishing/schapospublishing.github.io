@@ -11,7 +11,7 @@ My husband [James A. Unwin](https://unwin.people.uic.edu/James_Unwin.html) is a 
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/family.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/family.jpeg" title="First family holiday - Starved Rock 2021" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -27,7 +27,7 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/niko1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/niko1.jpeg" title="Niko's first week" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,18 +40,36 @@ Our first son, <b>Nikolay Andrew Unwin Schaposnik</b>, was born on August 22 201
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/niko2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/niko2.jpeg" title="Niko's first birthday - Berkeley 2019" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/niko3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/niko3.jpeg" title="Niko's first birthday - Berkeley 2019" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/niko4.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/niko4.jpeg" title="Niko's first birthday - Berkeley 2019" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Nikolay during his first year.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Niko2021_2.jpeg" title="Summer 2021" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Niko2021.jpeg" title="Niko loves learning - rocks downtown Chicago 2021" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Niko2021_3.png" title="Christmas 2021 - magnatiles" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Nikolay during the pandemic years year.
+</div>
+
+
 
 <br>
 
@@ -65,7 +83,7 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/alex1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/alex1.jpeg" title="Alex's first week" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,21 +94,59 @@ Our second son, <b>Alexander Ivan Unwin Schaposnik</b>, was born on October 8 20
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/alex2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/alex2.jpeg" title="The first week at home" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/alex3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/alex3.jpeg" title="The first day at home" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/alex4.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/alex4.jpeg" title="The first week at home" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Alexander during his first year.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Alex2021_2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Alex2021.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Alex2022.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Alexander during his second year.
+</div>
+
+
 <br>
 
  
+ <hr>
+<span style="font-size:15px">
+
+The boys love playing together. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Juntos2022.jpeg" title="Alex and Niko picking up rocks in Florida 2022" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Juntos2021_2.png" title="Exploring the Fields museum Winter 2021" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Juntos2022_2.jpeg" title="Niko and Alex in our local park May 2022" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Niko and Alex growing up during a pandemic.
+</div>
+
 <hr>
 <span style="font-size:15px">
  
