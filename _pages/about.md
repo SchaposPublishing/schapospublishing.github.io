@@ -15,5 +15,5 @@ socialcontact: true  # includes social icons under photo
 social: true # includes social icons at the bottom of the page
 ---
 
- Schapos Publishing is a small publisher based in Chicago looking to engage young readers by presenting different ways of introducing scientific knowledge. 
+Schapos Publishing is a small publisher based in Chicago looking to engage young readers by presenting different ways of introducing scientific knowledge. 
  
